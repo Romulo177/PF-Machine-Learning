@@ -9,5 +9,16 @@ Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Discípu
 <p align="center">
   <a href="[#Introdução]">Introdução</a> &nbsp;&bull;&nbsp;
   <a href="[#Quests]">Quests</a> &nbsp;&bull;&nbsp;
-  <a href="[#A batalha contra o dragão :dragon:]">:dragon: A batalha contra o dragão</a> &nbsp;&bull;&nbsp
+  <a href="[#A batalha contra o dragão :dragon:]">:dragon: A batalha contra o dragão</a> &nbsp;&bull;&nbsp;
 </p>
+
+#Introdução
+Nesta disciplina aprendemos teoria, conceitos e os principais modelos de Aprendizado de Máquina de forma gamificada, incluindo histórias personalizadas e personagens em estilo RPG. Cada grupo faz parte de uma guilda, a qual é composta por cavaleiros, magos e escudeiros, e o nosso objetivo é cumprir atividades semanais (quests) a fim de ajudar o Reino de Lumi, um mundo fictício, além de realizar um projeto final (Batalha contra o Dragão).
+
+Nossa guilda é formada pela guerreira Mantis Pennata, pelo mago Zeriel Héosforo e pelo escudeiro Rhaegar Kamoris. A história e representação destes personagens pode ser encontrada nesse link
+
+:new_moon: **Guerreira Mantis Pennata**: [Joana Medeiros](https://github.com/LuzMendes)
+
+:mage_man: **Mago Zeriel Héosforo**: [Rômulo Emanuel](https://github.com/Caiomld)
+
+:shield: **Escudeiro Rhaegar Kamoris**: [Enzo Januzzi](https://github.com/CaioRuas24010)
