@@ -28,11 +28,11 @@ Nossa guilda é formada pela guerreira Mantis Pennata, pelo mago Zeriel Héosfor
 # 🧭 Quests:
 Semanalmente, fazemos atividades de aprendizado de máquina sobre temas específicos, impulsionando nossa aprendizagem. Aqui colocaremos todas as quests realizadas, as quais estão anexadas neste repositório, na pasta <a href="Quests"> "Quests"</a>, com seus respectivos enunciados e resoluções. Segue um resumo de cada atividade:
 
-<a href="Quests / Quest 1 - Dados 1.ipynb"> **Quest 1 - Dados 1:**</a> Exploramos os datasets didáticos "Penguins", "Taxis" e "Health EXP", fazendo gráficos e computando estatísticas descritiva
+[Quest 1 - Dados 1](Quests/Quest%201%20-%20Dados%201.ipynb) Exploramos os datasets didáticos "Penguins", "Taxis" e "Health EXP", fazendo gráficos e computando estatísticas descritivas
 
-<a href="https://discipulosdehemera.vercel.app/"> **Quest 1 - Dados 3:**</a> Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quest 1 - Dados 3](Quests/Quest%201%20-%20Dados%203.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
 
-<a href="https://discipulosdehemera.vercel.app/"> **Quest 2 - Modelos 1:**</a> Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
 
 <a href="https://discipulosdehemera.vercel.app/"> **Quest 2 - Modelos 3:**</a> Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
 
