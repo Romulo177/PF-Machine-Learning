@@ -1,5 +1,7 @@
 #  Projeto Final Machine Learning - Discípulos de Hemera ☀️
 
+![Brasão - Guilda](https://github.com/user-attachments/assets/5c2b390b-b0c6-47ee-9632-bc6243aa4344)
+
 *"Faça-se Luz!"*
 
 Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Discípulos de Hemera* na disciplina de Aprendizado de Máquina da faculade Ilum - Escola de Ciência (CNPEM), ministrada pelo professor doutor Daniel Roberto Cassar. Os códigos desse repositório foram desenvolvidos utilizando a linguagem de programação Python no Jupyter Notebook. A linguagem HTML também foi utilizada na elaboração deste READ-ME
