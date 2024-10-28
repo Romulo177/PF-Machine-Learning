@@ -1,6 +1,6 @@
 #  Projeto Final Machine Learning - Discípulos de Hemera ☀️
 
-![Brasão - Guilda](https://github.com/user-attachments/assets/5c2b390b-b0c6-47ee-9632-bc6243aa4344)
+![Brasão - Guilda - BG](https://github.com/user-attachments/assets/1607eb2b-f452-4ea1-af3b-0c96546e17fd)
 
 *"Faça-se Luz!"*
 
