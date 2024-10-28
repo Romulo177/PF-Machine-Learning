@@ -46,7 +46,18 @@ Todos os datasets utilizados estão disponíveis junto à pasta de Quests ou pod
 O enunciado do projeto é: "Obtenha um conjunto de dados tabulados de interesse científico com pelo menos 4 atributos, pelo menos 1 target numérico e que tenha pelo menos 50
 exemplos. Estes dados não podem ser dados sequenciais (como, por exemplo, séries temporais). O objetivo é utilizar os dados coletados a fim de induzir modelos preditivos através de algoritmos de aprendizado de máquina. Espera-se o uso de boas práticas em ciências de dados. Não é necessário utilizar todas as estratégias e ferramentas apresentados durante a disciplina, mas por se tratar de um projeto de semestre, espera-se que a entrega seja suficientemente completa e detalhada, demonstrando o entendimento e a aplicação prática dos conceitos discutidos ao longo da disciplina. Pode utilizar estratégias e ferramentas não apresentados durante a disciplina caso tenha interesse e faça sentido dentro do escopo do projeto."
 
-Nosso dataset apresenta informações sobre supercondutores, com 81 atributos e 21263 dados. Treinaremos 3 modelos de Machine Learning - Árvore de Decisão, k-NN e Support Vector Machine -, a fim de prever a temperatura crítica ideal desses supercondutores. Todos os arquivos podem ser encontrados no repositório
+Nosso dataset apresenta informações sobre supercondutores, com 81 atributos e 21263 dados. Treinaremos 3 modelos de Machine Learning - Árvore de Decisão, k-NN e Support Vector Machine -, a fim de prever a temperatura crítica ideal desses supercondutores. A comparação entre os modelos utilizados será realizada por meio da métrica da Raiz do Erro Quadrático Médio (RMSE) e tem como intuito entender acerca de como cada modelo se aplica e realiza suas previsões de forma diferente em um mesmo conjunto de dados.
+
+Todos os arquivos podem ser encontrados no repositório <a href="A Batalha contra o Dragão"> "A Batalha contra o Dragão"</a>
+O notebook é dividido em 4 partes principais que resultam em uma 5ª parte que revisa e conclui eles a partir do objetivo do trabalho que é a comparação entre modelos, sendo elas:
+
+Introdução: Apresenta e dita o rumo que será seguido, além de uma manipulação e explicação dos dados que serão utilizados para a previsão realizada por cada modelo;
+
+Implementação do modelo da Árvore de Decisão: Utilização de um modelo mais visual para realizar a previsão da temperatura crítica a partir de atributos válidos;  
+
+Implementação do modelo dos k-NN vizinhos: Utilização de um modelo mais simples como o dos k-NN vizinhos para realizar a previsão e entendimento acerca da influência do número de vizinhos e modo de calcular a distância;
+
+Implementação do modelo do Support Vector Regression: Implementação de um modelo mais robusto e que demanda mais tempo derivado do Support Vector Machine para previsão da temperatura crítica buscando valores dentro de uma margem e não um valor exato.
 
 #### REFERÊNCIAS:
 
