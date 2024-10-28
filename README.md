@@ -30,15 +30,15 @@ Semanalmente, fazemos atividades de aprendizado de máquina sobre temas específ
 
 [Quest 1 - Dados 1](Quests/Quest%201%20-%20Dados%201.ipynb) Exploramos os datasets didáticos "Penguins", "Taxis" e "Health EXP", fazendo gráficos e computando estatísticas descritivas
 
-[Quest 1 - Dados 3](Quests/Quest%201%20-%20Dados%203.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quest 1 - Dados 3](Quests/Quest%201%20-%20Dados%203.ipynb) Usamos o dataset 'Flights' para fazer uma conversão simbólico-numérica neste conjunto de dados utilizando o codificador ordinal
 
-[Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) 
 
-<a href="https://discipulosdehemera.vercel.app/"> **Quest 2 - Modelos 3:**</a> Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quests 2 - Modelos 3](Quests/Quests%202%20-%20Modelos%203.ipynb) 
 
-<a href="https://discipulosdehemera.vercel.app/"> **Quest 3 - Modelos 4:**</a> Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quests 3 - Modelos 4](Quests/Quest%203%20-%20Modelos%204.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
 
-<a href="https://discipulosdehemera.vercel.app/"> **Quest 3 - Modelos 6:**</a> Estudamos o algoritmo Support Vector Machine, induzindo um modelo preditivo nos dados deste projeto
+[Quest 3 - Modelos 6](Quests/Quest%203%20-%20Modelos%206.ipynb) Estudamos o algoritmo Support Vector Machine, induzindo um modelo preditivo nos dados deste projeto
 
 Todos os datasets utilizados estão disponíveis junto à pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
