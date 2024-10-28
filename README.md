@@ -32,7 +32,7 @@ Semanalmente, fazemos atividades de aprendizado de máquina sobre temas específ
 
 [Quest 1 - Dados 3](Quests/Quest%201%20-%20Dados%203.ipynb) Usamos o dataset 'Flights' para fazer uma conversão simbólico-numérica neste conjunto de dados utilizando o codificador ordinal
 
-[Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) 
+[Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) Alteramos um modelo de regressor linear para classificador linear, com base no material de sala. Além disso, mudamos a métrica da distância para Manhattan e por fim testamos a eficácia do nosso modelo.
 
 [Quests 2 - Modelos 3](Quests/Quests%202%20-%20Modelos%203.ipynb) 
 
