@@ -34,7 +34,7 @@ Semanalmente, fazemos atividades de aprendizado de máquina sobre temas específ
 
 [Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) Alteramos um modelo de regressor linear para classificador linear, com base no material de sala. Além disso, mudamos a métrica da distância para Manhattan e por fim testamos a eficácia do nosso modelo.
 
-[Quests 2 - Modelos 3](Quests/Quests%202%20-%20Modelos%203.ipynb) 
+[Quests 2 - Modelos 3](Quests/Quests%202%20-%20Modelos%203.ipynb) Mostramos didaticamente como o modelo linear Lasso funciona a e como ele se difere do modelo linear estudado em sala de aula 
 
 [Quests 3 - Modelos 4](Quests/Quest%203%20-%20Modelos%204.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
 
