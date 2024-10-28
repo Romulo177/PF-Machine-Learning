@@ -36,9 +36,9 @@ Semanalmente, fazemos atividades de aprendizado de máquina sobre temas específ
 
 [Quests 2 - Modelos 3](Quests/Quests%202%20-%20Modelos%203.ipynb) Mostramos didaticamente como o modelo linear Lasso funciona a e como ele se difere do modelo linear estudado em sala de aula 
 
-[Quests 3 - Modelos 4](Quests/Quest%203%20-%20Modelos%204.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quests 3 - Modelos 4](Quests/Quests%203%20-%20Modelos%204.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
 
-[Quest 3 - Modelos 6](Quests/Quest%203%20-%20Modelos%206.ipynb) Estudamos o algoritmo Support Vector Machine, induzindo um modelo preditivo nos dados deste projeto
+[Quest 3 - Modelos 6](Quests/Quests%203%20-%20Modelos%206.ipynb) Estudamos o algoritmo Support Vector Machine, induzindo um modelo preditivo nos dados deste projeto
 
 Todos os datasets utilizados estão disponíveis junto à pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
