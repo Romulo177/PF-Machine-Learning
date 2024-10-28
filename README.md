@@ -1,6 +1,6 @@
 #  Projeto Final Machine Learning - Discípulos de Hemera ☀️
 
-![Brasão - Guilda - BG](https://github.com/user-attachments/assets/1607eb2b-f452-4ea1-af3b-0c96546e17fd)
+<img src="https://github.com/user-attachments/assets/1607eb2b-f452-4ea1-af3b-0c96546e17fd">
 
 *"Faça-se Luz!"*
 
@@ -47,4 +47,55 @@ O enunciado do projeto é: "Obtenha um conjunto de dados tabulados de interesse 
 exemplos. Estes dados não podem ser dados sequenciais (como, por exemplo, séries temporais). O objetivo é utilizar os dados coletados a fim de induzir modelos preditivos através de algoritmos de aprendizado de máquina. Espera-se o uso de boas práticas em ciências de dados. Não é necessário utilizar todas as estratégias e ferramentas apresentados durante a disciplina, mas por se tratar de um projeto de semestre, espera-se que a entrega seja suficientemente completa e detalhada, demonstrando o entendimento e a aplicação prática dos conceitos discutidos ao longo da disciplina. Pode utilizar estratégias e ferramentas não apresentados durante a disciplina caso tenha interesse e faça sentido dentro do escopo do projeto."
 
 Nosso dataset apresenta informações sobre supercondutores, com 81 atributos e 21263 dados. Treinaremos 3 modelos de Machine Learning - Árvore de Decisão, k-NN e Support Vector Machine -, a fim de prever a temperatura crítica ideal desses supercondutores. Todos os arquivos podem ser encontrados no repositório
+
+#### REFERÊNCIAS:
+
+[1] CASSAR, Daniel. *ATP-203 1.1 - Tratamento de dados*
+
+[2] CASSAR, Daniel. *ATP-203 2.0 - Tipos de aprendizado de máquina e algoritmo k-NN*
+
+[3] CASSAR, Daniel. *ATP-203 2.1 - Aprendizado de máquina, k-NN e métricas*
+
+[4] CASSAR, Daniel. *ATP-203 3.0 - Modelo linear e baseline*
+
+[5] CASSAR, Daniel. *ATP-203 4.0 - Split de dados de treino e teste*
+
+[6] CASSAR, Daniel. *ATP-203 4.1 - Árvore de decisão*
+
+[7] CASSAR, Daniel. *ATP-203 5.0 - Validação cruzada, busca aleatória e busca em grade*
+
+[8] CASSAR, Daniel. *ATP-203 5.1 - Floresta aleatória*
+
+[9] CASSAR, Daniel. *ATP-203 6.0 - Desempacotando listas e dicionários com operadores estrela*
+
+[10] CASSAR, Daniel. *ATP-203 6.1 - Otimização de hiperparâmetros com optuna*
+
+[11] CASSAR, Daniel. *ATP-203 7.0 - Dados sintéticos e pipeline*
+
+[12] CASSAR, Daniel. *ATP-203 7.1 - Seleção de atributos*
+
+[13] CASSAR, Daniel. *ATP-203 7.0 - Dados sintéticos e pipeline*
+
+[14] CASSAR, Daniel. *ATP-203 8.0 - A matriz de covariância e a matriz de correlação*
+
+[15] CASSAR, Daniel. *ATP-203 8.1 - Redução de dimensionalidade com PCA*
+
+[16] CASSAR, Daniel. *ATP-203 9.0 - Tratamento de exceções*
+
+[17] CASSAR, Daniel. *ATP-203 9.1 - Classificação binária*
+
+[18] CASSAR, Daniel. *ATP-203 10.0 - Outras métricas de classificação*
+
+[19] CASSAR, Daniel. *ATP-203 10.1 - Classificação multiclasse*
+
+[20] Scikit-Learn. *KNeighborsRegressor* Disponível em:
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+
+[21] Scikit-Learn. *DecisionTreeRegressor*. Disponível em: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
+
+[22] Scikit-Learn. *Support Vector Regressor*. Disponível em: https://scikit-learn.org/1.5/modules/generated/sklearn.svm.SVR.html
+
+[23] Optuna. *Documentação suporte para o uso do Optuna*. Disponível em: https://optuna.readthedocs.io/en/stable/reference/index.html
+
+[24] Dataset Supercondutores. *Superconductivty Data*. Disponível em: https://archive.ics.uci.edu/dataset/464/superconductivty+data
 
