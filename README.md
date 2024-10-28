@@ -48,7 +48,7 @@ exemplos. Estes dados não podem ser dados sequenciais (como, por exemplo, séri
 
 Nosso dataset apresenta informações sobre supercondutores, com 81 atributos e 21263 dados. Treinaremos 3 modelos de Machine Learning - Árvore de Decisão, k-NN e Support Vector Machine -, a fim de prever a temperatura crítica ideal desses supercondutores. Todos os arquivos podem ser encontrados no repositório
 
-Lore: Um terrível dragão elétrico tem aterrorizado os cidadãos do reino de Lumi, sua presença é o suficiente para deixar todos de cabelos em pé. Felizmente nossos bravos guerreiros se encarregaram de combater a fera, os Discípulos de Hemera se dedicaram bastante em se aperfeiçoar nas mais novas descobertas sobre a eletricidade, virando madrugadas para desenvolver meios de prever os ataques dessa criatra que se assemelha bastante a um supercondutor. Os Discípulos de Hemera se orgulharam bastante de sua batalha lendária, e esperamos que vocês, cidadões de Lumi também tenham aprovado o trabalho dos nossos guerreiros.
+Lore: Um terrível dragão elétrico tem aterrorizado os cidadãos do reino de Lumi, sua presença é o suficiente para deixar todos de cabelos em pé. Felizmente nossos bravos guerreiros se encarregaram de combater a fera, os Discípulos de Hemera se dedicaram bastante em se aperfeiçoar nas mais novas descobertas sobre a eletricidade, virando madrugadas para desenvolver meios de prever os ataques dessa criatura que se assemelha bastante a um supercondutor. Os Discípulos de Hemera se orgulharam bastante de sua batalha lendária, e esperamos que vocês, cidadões de Lumi também tenham aprovado o trabalho dos nossos guerreiros.
 
 #### REFERÊNCIAS:
 
