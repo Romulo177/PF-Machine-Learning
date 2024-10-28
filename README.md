@@ -61,7 +61,10 @@ Implementação do modelo do Support Vector Regression: Implementação de um mo
 
 Lore: Um terrível dragão elétrico tem aterrorizado os cidadãos do reino de Lumi, sua presença é o suficiente para deixar todos de cabelos em pé. Felizmente nossos bravos guerreiros se encarregaram de combater a fera, os Discípulos de Hemera se dedicaram bastante em se aperfeiçoar nas mais novas descobertas sobre a eletricidade, virando madrugadas para desenvolver meios de prever os ataques dessa criatura que se assemelha bastante a um supercondutor. Os Discípulos de Hemera se orgulharam bastante de sua batalha lendária, e esperamos que vocês, cidadões de Lumi também tenham aprovado o trabalho dos nossos guerreiros.
 
-#### REFERÊNCIAS:
+# 🤝Agradecimentos:
+Gostaríamos de agradecer ao membro honorário **Khal Morganus**, ([Caio Dantas]([https://github.com/EnzoJanuzzi]), pelos serviços prestados aos Disípulos de Hemera!
+
+# 📄 Referências:
 
 [1] CASSAR, Daniel. *ATP-203 1.1 - Tratamento de dados*
 
