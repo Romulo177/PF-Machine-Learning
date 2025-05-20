@@ -4,7 +4,7 @@
 
 *"Faça-se Luz!"*
 
-Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Discípulos de Hemera* na disciplina de Aprendizado de Máquina da faculade Ilum - Escola de Ciência (CNPEM), ministrada pelo professor doutor Daniel Roberto Cassar. Os códigos desse repositório foram desenvolvidos utilizando a linguagem de programação Python no Jupyter Notebook. A linguagem HTML também foi utilizada na elaboração deste READ-ME
+Neste repositório, iremos adicionar os códigos produzidos pelo grupo *Discípulos de Hemera* na disciplina de Aprendizado de Máquina da faculade Ilum - Escola de Ciência (CNPEM), ministrada pelo professor doutor Daniel Roberto Cassar. Os códigos desse repositório foram desenvolvidos utilizando a linguagem de programação Python no Jupyter Notebook. A linguagem HTML também foi utilizada na elaboração deste READ-ME.
 
 # !["Badge Ilum"](https://img.shields.io/badge/Ilum%20-%20purple) !["Badge License"](https://img.shields.io/badge/License%20-%20MIT%20-%20green) !["Badge Status"](https://img.shields.io/badge/Status-Em_constru%C3%A7%C3%A3o-yellow) !["Badge Reino"](https://img.shields.io/badge/Reino-Lumi-red) !["Badge Continente"](https://img.shields.io/badge/Continente-Senepem-blue) !["Badge Guilda"](https://img.shields.io/badge/Guilda-Discípulos_de_Hemera-white)
 
@@ -28,17 +28,17 @@ Nossa guilda é formada pela guerreira Mantis Pennata, pelo mago Zeriel Héosfor
 # 🧭 Quests:
 Semanalmente, fazemos atividades de aprendizado de máquina sobre temas específicos, impulsionando nossa aprendizagem. Aqui colocaremos todas as quests realizadas, as quais estão anexadas neste repositório, na pasta <a href="Quests"> "Quests"</a>, com seus respectivos enunciados e resoluções. Segue um resumo de cada atividade:
 
-[Quests 1 - Dados 1](Quests/Quests%201%20-%20Dados%201.ipynb) Exploramos os datasets didáticos "Penguins", "Taxis" e "Health EXP", fazendo gráficos e computando estatísticas descritivas
+[Quests 1 - Dados 1](Quests/Quests%201%20-%20Dados%201.ipynb) Exploramos os datasets didáticos "Penguins", "Taxis" e "Health EXP", fazendo gráficos e computando estatísticas descritivas.
 
-[Quests 1 - Dados 3](Quests/Quests%201%20-%20Dados%203.ipynb) Usamos o dataset 'Flights' para fazer uma conversão simbólico-numérica neste conjunto de dados utilizando o codificador ordinal
+[Quests 1 - Dados 3](Quests/Quests%201%20-%20Dados%203.ipynb) Usamos o dataset 'Flights' para fazer uma conversão simbólico-numérica neste conjunto de dados utilizando o codificador ordinal.
 
 [Quests 2 - Modelos 1](Quests/Quests%202%20-%20Modelos%201.ipynb) Alteramos um modelo de regressor linear para classificador linear, com base no material de sala. Além disso, mudamos a métrica da distância para Manhattan e por fim testamos a eficácia do nosso modelo.
 
 [Quests 2 - Modelos 3](Quests/Quests%202%20-%20Modelos%203.ipynb) Mostramos didaticamente como o modelo linear Lasso funciona a e como ele se difere do modelo linear estudado em sala de aula 
 
-[Quests 3 - Modelos 4](Quests/Quests%203%20-%20Modelos%204.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base
+[Quests 3 - Modelos 4](Quests/Quests%203%20-%20Modelos%204.ipynb) Ajudamos a Vossa Iluminação a responder 3 das múltiplas hipóteses levantadas pelo Reino de Lumi, usando o dataset deste projeto como base.
 
-[Quest 3 - Modelos 6](Quests/Quests%203%20-%20Modelos%206.ipynb) Estudamos o algoritmo Support Vector Machine, induzindo um modelo preditivo nos dados deste projeto
+[Quest 3 - Modelos 6](Quests/Quests%203%20-%20Modelos%206.ipynb) Estudamos o algoritmo Support Vector Machine, induzindo um modelo preditivo nos dados deste projeto.
 
 Todos os datasets utilizados estão disponíveis junto à pasta de Quests ou podem ser acessados conforme explicado nos respectivos notebooks.
 
@@ -62,7 +62,7 @@ Implementação do modelo do Support Vector Regression: Implementação de um mo
 Lore: Um terrível dragão elétrico tem aterrorizado os cidadãos do reino de Lumi, sua presença é o suficiente para deixar todos de cabelos em pé. Felizmente nossos bravos guerreiros se encarregaram de combater a fera, os Discípulos de Hemera se dedicaram bastante em se aperfeiçoar nas mais novas descobertas sobre a eletricidade, virando madrugadas para desenvolver meios de prever os ataques dessa criatura que se assemelha bastante a um supercondutor. Os Discípulos de Hemera se orgulharam bastante de sua batalha lendária, e esperamos que vocês, cidadões de Lumi também tenham aprovado o trabalho dos nossos guerreiros.
 
 # 🤝Agradecimentos:
-Gostaríamos de agradecer ao membro honorário **Khal Morganus**, ([Caio Dantas]([https://github.com/EnzoJanuzzi]), pelos serviços prestados aos Disípulos de Hemera!
+Gostaríamos de agradecer ao membro honorário **Khal Morganus**, ([Caio Dantas]([https://github.com/Caiomld]), pelos serviços prestados aos Discípulos de Hemera!
 
 # 📄 Referências:
 
